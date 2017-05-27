@@ -1,0 +1,29 @@
+{
+  "name": "mean-ang2",
+  "version": "1.0.0",
+  "description": "Mean Stack with Angular 2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matsubrasil/MEAN-Stack-With-Angular-2.git"
+  },
+  "keywords": [
+    "MEAN",
+    "STACK",
+    "ANGULAR2",
+    "application"
+  ],
+  "author": "Aexandre Matsushita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matsubrasil/MEAN-Stack-With-Angular-2/issues"
+  },
+  "homepage": "https://github.com/matsubrasil/MEAN-Stack-With-Angular-2#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.10.3"
+  }
+}
